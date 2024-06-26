@@ -20,11 +20,11 @@ The QA plan covers the entire scope of the LOCKIFY project, including the develo
 ### General Constraints
 
 The project is subject to the following general constraints:
-1- The system shall be available in English and Arabic.
-2- All scripts shall be written in Swift programming language.
-3- The system shall run under IOS platform and have the ability to transfer to
+- The system shall be available in English and Arabic.
+- All scripts shall be written in Swift programming language.
+- The system shall run under IOS platform and have the ability to transfer to
 an Android platform.
-4- The System shall incorporate Apple Pay payment.
+- The System shall incorporate Apple Pay payment.
 
 ### Quality Goals
 
